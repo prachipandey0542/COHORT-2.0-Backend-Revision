@@ -3,7 +3,7 @@
 My daily backend development practice and learning journey.
 
 <details>
-<summary><b>📅 ## Day 1: Node.js & Express Basics (Click to expand)</b></summary>
+<summary><b>📅 Day 1: Node.js & Express Basics (Click to expand)</b></summary>
   
 - Setup Node.js environment and executed JavaScript outside the browser
 - Learned Node.js fundamentals and its working
