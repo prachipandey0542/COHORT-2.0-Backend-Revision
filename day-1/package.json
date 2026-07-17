@@ -1,7 +1,7 @@
 {
   "name": "day-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "install node.js and setup,run js code outside the browser, install & understan packages, understand server, create first server using express",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
