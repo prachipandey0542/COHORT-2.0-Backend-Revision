@@ -1,6 +1,6 @@
-# Cohort 2.0 Backend Revision
+# Backend Revision & Documentation Journey
 
-My daily backend development practice and learning journey.
+Welcome to my backend repository! During my initial learning phase, my entire focus was on writing code and building logic. Now, I want to systematically organize and document my complete backend journey day-by-day to track my progress and keep my fundamentals sharp.
 
 <details>
 <summary><b>📅 Day 1: Node.js & Express Basics (Click to expand)</b></summary>
