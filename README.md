@@ -52,7 +52,7 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
 - Mastered the lifecycle of standard response codes across success, client, and server errors.
 - Deepened core API development concepts by practicing standard CRUD routing operations.
 - Explored document-oriented database architecture and schema-less data storage fundamentals.
-- Configured a secure cloud database infrastructure using a remote cluster deployment.
+- Configured a secure cloud database infrastructure using a remote cluster deployment (MongoDB Atlas).
 - Integrated a local GUI (MongoDB Compass) to streamline live data monitoring and visualization.
 
 </details>
