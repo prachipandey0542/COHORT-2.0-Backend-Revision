@@ -45,3 +45,15 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
 - Learned how to read incoming client data using req.body and req.params.
 
 </details>
+
+<details>
+<summary><b>📅 Day 5: HTTP Status Codes & Database Theory</b></summary>
+  
+- Mastered the lifecycle of standard response codes across success, client, and server errors.
+- Deepened core API development concepts by practicing standard CRUD routing operations.
+- Explored document-oriented database architecture and schema-less data storage fundamentals.
+- Configured a secure cloud database infrastructure using a remote cluster deployment.
+- Integrated a local GUI (MongoDB Compass) to streamline live data monitoring and visualization.
+
+</details>
+
