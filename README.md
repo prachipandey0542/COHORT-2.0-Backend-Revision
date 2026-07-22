@@ -3,7 +3,7 @@
 Welcome to my backend repository! During my initial learning phase, my entire focus was on writing code and building logic. Now, I want to systematically organize and document my complete backend journey day-by-day to track my progress and keep my fundamentals sharp.
 
 <details>
-<summary><b>📅 Day 1: Node.js & Express Basics (Click to expand)</b></summary>
+<summary><b>📅 Day 1: Node.js & Express Basics.</b></summary>
   
 - Setup Node.js environment and executed JavaScript outside the browser.
 - Learned Node.js fundamentals and its working.
@@ -24,12 +24,24 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
 </details>
 
 <details>
-<summary><b>📅 Day 3: APIs, HTTP Protocols & My First CRUD Application </b></summary>
+<summary><b>📅 Day 3: APIs, HTTP Protocols & My First CRUD Application.</b></summary>
   
 - Learned what an API is and how it allows different systems to talk to each other.
 - Understood how two software programs exchange data over a network.
 - Explored HTTP methods and protocols that govern client-server interaction.
 - Created a fully functional Notes server from scratch without using a database.
 - Wrote backend logic to Create, Read, notes using HTTP methods (GET, POST,) with memory-based storage.
+
+</details>
+
+<details>
+<summary><b>📅 Day 4: Improve Folder Structure & Understand Request Handling.</b></summary>
+  
+- Created a src folder to better organize the project code.
+- Wrote the server creation and configuration logic inside src/app.js.
+- Created a main server.js file to import the app and start the server.
+- Set up custom npm scripts like 'npm run dev' to execute the project easily.
+- Completed the Notes Application by adding the update and delete API endpoints usign (PATCH, PUT, DELETE).
+- Learned how to read incoming client data using req.body and req.params.
 
 </details>
