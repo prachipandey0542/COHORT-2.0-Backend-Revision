@@ -47,7 +47,7 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
 </details>
 
 <details>
-<summary><b>📅 Day 5: HTTP Status Codes & Database Theory</b></summary>
+<summary><b>📅 Day 5: HTTP Status Codes & Database Theory.</b></summary>
   
 - Mastered the lifecycle of standard response codes across success, client, and server errors.
 - Deepened core API development concepts by practicing standard CRUD routing operations.
@@ -56,4 +56,17 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
 - Integrated a local GUI (MongoDB Compass) to streamline live data monitoring and visualization.
 
 </details>
+
+<details>
+  <summary><b>📅 Day 6: Database Architecture & Mongoose Integration.</b></summary>
+  
+  - Explored server architecture types, identifying distinct responsibilities of web, file, email, and database servers.
+  - Learned cluster scalability, understanding how a single remote cluster can host multiple isolated databases.
+  - Deployed a cloud cluster on MongoDB Atlas, configuring region parameters (Mumbai, India) for optimized latency.
+  - Demystified the Atlas hierarchical chain: Project ➡️ Cluster ➡️ Database ➡️ Collection ➡️ Document ➡️ Actual Data.
+  - Connected the backend application to MongoDB Atlas via secure connection strings (MONGO_URI) using Mongoose ODM.
+  - Reinforced previous session's learning through hands-on practice.
+    
+</details>
+
 
