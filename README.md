@@ -69,4 +69,15 @@ Welcome to my backend repository! During my initial learning phase, my entire fo
     
 </details>
 
+<details>
+<summary><b>📅 Day 7: Mongoose Schemas, Models & Database CRUD Operations.</b></summary>
+
+- Understood Mongoose Schemas and Models to define structured data blueprints.
+- Refactored project architecture by creating dedicated `config/` (for DB connection) and `models/` folders.
+- Secured connection strings and sensitive data using environment variables (`.env`).
+- Cleaned up `app.js` by separating database logic into modular, readable files.
+- Practiced core Mongoose CRUD methods including `Model.create()`, `findOne()`, `findOneAndUpdate()`, and `findByIdAndDelete()`.
+
+</details>
+
 
